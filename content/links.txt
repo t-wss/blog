@@ -1,0 +1,9 @@
+https://www.google.com/search?q=blog+license
+
+https://github.com/twbs/blog/blob/main/LICENSE
+https://www.reddit.com/r/opensource/comments/mg9d3c/which_license_to_use_for_a_personal_website_andor/
+https://www.reddit.com/r/opensource/comments/d19xro/how_should_i_license_my_blog_which_is_opensource/
+https://gitlab.com/Nowaker/nowaker-blog/blob/master/LICENSE.md
+https://opensource.stackexchange.com/questions/365/how-can-i-license-my-content-in-a-blogpost
+https://www.google.com/search?q=blog+license+for+external+links
+https://en.wikipedia.org/wiki/Wikipedia:External_links
